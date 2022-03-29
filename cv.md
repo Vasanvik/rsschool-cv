@@ -1,19 +1,20 @@
 
-![Vasanvik](Vasanvik.JPG)
+![Vasanvik](image/Vasanvik.JPG)
 # Andrei Vasilyev
 vasanvik@gmail.com | [Linkedin](https://www.linkedin.com/in/andrei-vasilyev/) | Discord-Vasanvik#5685  
 _____________
-## SEO-specialist with 1+ year
+## SEO-specialist with 1+ year of experience
 ________
 **Website SEO**, until mid-February 2022, I worked as an SEO specialist at the marketing agency "Maxi By Media" since December 2020.<br>
-Сonducted a complex search engine optimization of sites on various topics: construction, medical, distance learning, marketing (I ran the agency's website)<br>
+Conducted a complex search engine optimization of sites on various topics: construction, medical, distance learning, marketing (I ran the agency's website)<br>
 
 ## Skills
 * CMS: Bitrix, MODx, Joomla.<br>
 * Basic HTML and CSS.<br>
 * Services: KEY Collector, Screaming Frog, Serpstat, SE Ranking, Ahrefs, SEO CMS, Google Search Console, Google Analytics
+* English: B1
 
-I am currently studying RS School courses - JavaScript/Front-End
+### I am currently studying RS School courses - JavaScript/Front-End
 
 ## Code
 ```

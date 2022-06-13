@@ -1,5 +1,4 @@
-
-![Vasanvik](image/Vasanvik.JPG)
+![Vasanvik](image/Vasanvik.jpg)
 # Andrei Vasilyev
 vasanvik@gmail.com | [Linkedin](https://www.linkedin.com/in/andrei-vasilyev/) | Discord-Vasanvik#5685  
 _____________
@@ -37,7 +36,7 @@ Conducted a complex search engine optimization of sites on various topics: const
 - Experience in preparing content on my own and coordinating it with the customer
 - Link building (crowd, permanent links)
 - Internal site optimization (monitoring the state of the site using various services, correcting possible errors on the site, independently or with the help of a programmer, analyzing semantic positions in Se- ranking, adjusting the meta tags of site pages - Title, Description, H1 headings)
-- Analysis of site indexing in search engines
+- Analysis of site indexing in search engines.
 - Analysis of previous changes, adjustment of changed pages depending on the results in search engines.
 - Analysis of data received from Yandex.Webmaster and Google Search Console services.
 - Preparation of monthly reports and work plans for the next period.

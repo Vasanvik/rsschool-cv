@@ -1,5 +1,5 @@
 
-![Vasanvik](/image/Vasanvik.JPG)
+![Vasanvik](image/Vasanvik.jpg)
 # Andrei Vasilyev
 vasanvik@gmail.com | [Linkedin](https://www.linkedin.com/in/andrei-vasilyev/) | Discord-Vasanvik#5685  
 _____________

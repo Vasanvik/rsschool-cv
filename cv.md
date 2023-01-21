@@ -9,7 +9,7 @@ Conducted a complex search engine optimization of sites on various topics: const
 
 ## Skills
 * CMS: Bitrix, MODx, Joomla.<br>
-* Basic HTML and CSS.<br>
+* Basic HTML, CSS and JS.<br>
 * Services: KEY Collector, Screaming Frog, Serpstat, SE Ranking, Ahrefs, SEO CMS, Google Search Console, Google Analytics
 * English: B1
 

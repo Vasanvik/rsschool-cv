@@ -2,18 +2,29 @@
 # Andrei Vasilyev
 vasanvik@gmail.com | [Linkedin](https://www.linkedin.com/in/andrei-vasilyev/) | Discord-Vasanvik#5685  
 _____________
-## SEO-specialist with 1+ year of experience
+## SEO-specialist
 ________
 **Website SEO**, until mid-February 2022, I worked as an SEO specialist at the marketing agency "Maxi By Media" since December 2020.<br>
-Conducted a complex search engine optimization of sites on various topics: construction, medical, distance learning, marketing (I ran the agency's website)<br>
+Conducted a complex search engine optimization of sites on various topics: construction, medical, distance learning, marketing.<br>
+From May 2022 to October 2022, I worked as a website maintenance specialist at RIMBAT.<br>
+I am currently working as a part-time freelancer Seo outreach specialist at Easy Projects.<br>
+Easy Projects is a SaaS project management platform.
 
 ## Skills
 * CMS: Bitrix, MODx, Joomla.<br>
 * Basic HTML, CSS and JS.<br>
-* Services: KEY Collector, Screaming Frog, Serpstat, SE Ranking, Ahrefs, SEO CMS, Google Search Console, Google Analytics
-* English: B1
+* Services: Ahrefs, Serpstat, SE Ranking, KEY Collector, Screaming Frog, Google Search Console, Google Analytics<br>
+* English: B1<br>
 
-### I am currently studying RS School courses - JavaScript/Front-End
+## Courses
+<ul>
+ <li>
+I completed a 4-month course: “SEO specialist, complex website promotion in search engines.” from Netology.<br>
+There is a certificate of successful completion.</li>
+<li> 
+Also in 21-22 years took a seven-month course from Netology - Specialization SEO-specialist PRO.
+(I did not finish the course in connection with the war)</li>
+</ul>
 
 ## Code
 ```

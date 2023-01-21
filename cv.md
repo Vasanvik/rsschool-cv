@@ -7,7 +7,7 @@ _____________
 ## SEO-specialist
 _____________
 ## Working experience
-* **Website SEO**, until mid-February 2022, I worked as an SEO specialist at the marketing agency "Maxi By Media" since December 2020.<br>
+***Website SEO**, until mid-February 2022, I worked as an SEO specialist at the marketing agency "Maxi By Media" since December 2020.<br>
 Conducted a complex search engine optimization of sites on various topics: construction, medical, distance learning, marketing.<br>
  - Complex site audits, aimed at identifying errors and points of growth of the project
  - Communication with the customer, coordination of all stages of work on the project
@@ -18,7 +18,7 @@ Conducted a complex search engine optimization of sites on various topics: const
  - Analysis of previous changes, adjustment of changed pages depending on the results in search engines
  - Analysis of data received from Google Search Console services
  - Preparation of monthly reports and work plans for the next period
-* From May 2022 to October 2022, I worked as a website maintenance specialist at RIMBAT.<br>
+** From May 2022 to October 2022, I worked as a website maintenance specialist at RIMBAT.<br>
  - Filling company websites with content
  - Integration of sites with various online services
  - Monitoring the work of SEO-contractor

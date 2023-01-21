@@ -7,10 +7,10 @@ _____________
 ## SEO-specialist
 _____________
 ## Working experience
-***Website SEO**, until mid-February 2022, I worked as an SEO specialist at the marketing agency "Maxi By Media" since December 2020.<br>
+**Website SEO**, until mid-February 2022, I worked as an SEO specialist at the marketing agency "Maxi By Media" since December 2020.<br>
 Conducted a complex search engine optimization of sites on various topics: construction, medical, distance learning, marketing.<br>
- - Complex site audits, aimed at identifying errors and points of growth of the project
- - Communication with the customer, coordination of all stages of work on the project
+ + Complex site audits, aimed at identifying errors and points of growth of the project
+ + Communication with the customer, coordination of all stages of work on the project
  - Collecting the semantic core, semantic clustering (using the Key Collector)
  - Preparation of technical specifications for programmers, copywriters (control over the execution of technical specifications)
  - Placing content on sites

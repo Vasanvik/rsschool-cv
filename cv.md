@@ -20,12 +20,12 @@ _____________
  - Internal optimization of web-sites (monitoring the status of sites with the help of various services, correcting possible errors on the site, independently or with   the help of a programmer, analyzing semantic positions in Se-ranking, placing content on sites, correcting the meta tags of web pages - Title, Description, H1         headings)
  - Link building (permanent links, crowd, link placement in directories, UGC)
  - Analysis of data from Google Search Console, monitoring site growth
- - Preparation of monthly reports and work plans for the next period<br>
+ - Preparation of monthly reports and work plans for the next period
  ### RIMBAT<br>
  Website maintenance specialist, May 2022 to October 2022<br> 
  - Filling company websites with content
  - Integration of sites with various online services
- - Monitoring the work of SEO-contractor<br>
+ - Monitoring the work of SEO-contractor
  ### Easy Projects<br>   
  I am currently working as a part-time freelancer **Seo outreach specialist**<br>
  Easy Projects is a SaaS project management platform.<br>

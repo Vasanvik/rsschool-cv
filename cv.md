@@ -7,35 +7,40 @@ vasanvik@gmail.com | [Linkedin](https://www.linkedin.com/in/andrei-vasilyev/) | 
 _____________
 ## SEO-specialist
 _____________
-## Working experience
+<h2>Working experience</h2>
 
- ### Marketing agency "Maxi By Media"  <br>
- **SEO-specialist** from December 2020 to February 2022<br> 
- Conducted a complex search engine optimization of sites on various topics: construction, medical, distance learning, marketing.<br>
- - Complex site audits, site audits, aimed at identifying errors and points of growth sites
- - Analysis of competitors from the TOP, evaluation of the most priority growth points
- - Communication with customers, coordination of all stages of work on optimization of sites
- - Bug fixing, optimization of sites
- - Collecting the semantic core, semantic clustering (using the Key Collector)
- - Preparation of technical specifications for programmers, copywriters (control over the execution of technical specifications)
- - Internal optimization of web-sites (monitoring the status of sites with the help of various services, correcting possible errors on the site, independently or with   the help of a programmer, analyzing semantic positions in Se-ranking, placing content on sites, correcting the meta tags of web pages - Title, Description, H1         headings)
- - Link building (permanent links, crowd, link placement in directories, UGC)
- - Analysis of data from Google Search Console, monitoring site growth
- - Preparation of monthly reports and work plans for the next period
+ <h3>Marketing agency "Maxi By Media"</h3>
+ <p><b>SEO-specialist<b> from December 2020 to February 2022<br> 
+ Conducted a complex search engine optimization of sites on various topics: construction, medical, distance learning, marketing.</p>
+ <ul>
+ <li>Complex site audits, site audits, aimed at identifying errors and points of growth sites</li>
+ <li>Analysis of competitors from the TOP, evaluation of the most priority growth points</li>
+ <li>Communication with customers, coordination of all stages of work on optimization of sites</li>
+ <li>Bug fixing, optimization of sites</li>
+ <li>Collecting the semantic core, semantic clustering (using the Key Collector)</li>
+ <li>Preparation of technical specifications for programmers, copywriters (control over the execution of technical specifications)</li>
+ <li>Internal optimization of web-sites (monitoring the status of sites with the help of various services, correcting possible errors on the site, independently or with   the help of a programmer, analyzing semantic positions in Se-ranking, placing content on sites, correcting the meta tags of web pages - Title, Description, H1         headings)</li>
+ <li>Link building (permanent links, crowd, link placement in directories, UGC)</li>
+ <li>Analysis of data from Google Search Console, monitoring site growth</li>
+ <li>Preparation of monthly reports and work plans for the next period</li>
+ </ul>
 
- ### RIMBAT  <br>
- Website maintenance specialist, May 2022 to October 2022<br> 
- - Filling company websites with content
- - Integration of sites with various online services
- - Monitoring the work of SEO-contractor
- 
+ <h3>RIMBAT</h3>
+ <p>Website maintenance specialist, May 2022 to October 2022</p> 
+ <ul>
+ <li>Filling company websites with content</li>
+ <li>Integration of sites with various online services</li>
+ <li>Monitoring the work of SEO-contractor</li>
+ </ul>
  ### Easy Projects  <br>   
- I am currently working as a part-time freelancer **Seo outreach specialist**.<br>
- Easy Projects is a SaaS project management platform.<br>
- - Link building (permanent links, guest posting, link placement in directories, UGC)
- - Contact and collaborate with website owners/admins, influencers, journalists, bloggers, etc.
- - Maintaining a report on the work done<br>
-
+ <p>I am currently working as a part-time freelancer **Seo outreach specialist**.<br>
+ Easy Projects is a SaaS project management platform.</p>
+ <ul>
+ <li>Link building (permanent links, guest posting, link placement in directories, UGC)</li>
+ <li>Contact and collaborate with website owners/admins, influencers, journalists, bloggers, etc.</li>
+ <li>Maintaining a report on the work done</li>
+</ul>
+ 
  ## Skills
  * CMS: Bitrix, MODx, Joomla.<br>
  * Basic HTML, CSS and JS.<br>

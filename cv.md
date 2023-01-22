@@ -38,6 +38,7 @@ Easy Projects is a SaaS project management platform.<br>
 * Basic HTML, CSS and JS.<br>
 * Services: Ahrefs, Serpstat, SE Ranking, KEY Collector, Screaming Frog, Google Search Console, Google Analytics<br>
 * English: B1<br>
+* Russian: native
 
 ## Courses
   - I completed a 4-month course: **SEO specialist**, complex website promotion in search engines from Netology.

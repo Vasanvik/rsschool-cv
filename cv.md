@@ -27,7 +27,7 @@ _____________
  - Integration of sites with various online services
  - Monitoring the work of SEO-contractor
  ### Easy Projects  <br>   
- I am currently working as a part-time freelancer **Seo outreach specialist**<br>
+ I am currently working as a part-time freelancer **Seo outreach specialist**.<br>
  Easy Projects is a SaaS project management platform.<br>
  - Link building (permanent links, guest posting, link placement in directories, UGC)
  - Contact and collaborate with website owners/admins, influencers, journalists, bloggers, etc.

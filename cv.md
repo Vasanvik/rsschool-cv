@@ -8,7 +8,7 @@ _____________
 ## SEO-specialist
 _____________
 ## Working experience
- #### Marketing agency "Maxi By Media"<br>  
+ <h3>Marketing agency "Maxi By Media"</h3>  
  **SEO-specialist** from December 2020 to February 2022<br> 
  Conducted a complex search engine optimization of sites on various topics: construction, medical, distance learning, marketing.<br>
  - Complex site audits, site audits, aimed at identifying errors and points of growth sites
@@ -20,12 +20,12 @@ _____________
  - Internal optimization of web-sites (monitoring the status of sites with the help of various services, correcting possible errors on the site, independently or with   the help of a programmer, analyzing semantic positions in Se-ranking, placing content on sites, correcting the meta tags of web pages - Title, Description, H1         headings)
  - Link building (permanent links, crowd, link placement in directories, UGC)
  - Analysis of data from Google Search Console, monitoring site growth
- - Preparation of monthly reports and work plans for the next period
+ - Preparation of monthly reports and work plans for the next period<br>
  #### RIMBAT<br>
  Website maintenance specialist, May 2022 to October 2022<br> 
  - Filling company websites with content
  - Integration of sites with various online services
- - Monitoring the work of SEO-contractor
+ - Monitoring the work of SEO-contractor<br>
  #### Easy Projects<br>   
  I am currently working as a part-time freelancer **Seo outreach specialist**<br>
  Easy Projects is a SaaS project management platform.<br>

@@ -38,7 +38,6 @@ _____________
  <li>Contact and collaborate with website owners/admins, influencers, journalists, bloggers, etc.</li>
  <li>Maintaining a report on the work done</li>
 </ul>
- 
  <h2>Skills</h2>
  <ul>
  <li>CMS: Bitrix, MODx, Joomla</li>
@@ -47,7 +46,6 @@ _____________
  <li>English: B1</li>
  <li>Russian: native</li>
  </ul>
-
  <h2>Courses</h2>
  <ul>
  <li>I completed a 4-month course: <b>SEO specialist</b>, complex website promotion in search engines from Netology.<br>
@@ -55,7 +53,6 @@ _____________
   <li>In 21-22 years took a seven-month course from Netology - **Specialization SEO-specialist PRO**.<br>
    (I did not finish the course in connection with the war)</li>
  </ul>
-
  <h2>Higher Education</h2>
  <p>1999 - 2004 - Belarusian Agricultural Academy - Agricultural mechanization, Engineer.</p> 
 

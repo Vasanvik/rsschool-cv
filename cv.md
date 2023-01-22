@@ -16,9 +16,8 @@ Conducted a complex search engine optimization of sites on various topics: const
  - Bug fixing, optimization of sites
  - Collecting the semantic core, semantic clustering (using the Key Collector)
  - Preparation of technical specifications for programmers, copywriters (control over the execution of technical specifications)
- - Internal optimization of web-sites (monitoring the state of the site using various services, correcting possible errors on the site, independently or with the help    of a programmer, analyzing semantic positions in Se- ranking, adjusting the meta tags of site pages - Title, Description, H1 headings)
+ - Internal optimization of web-sites (monitoring the status of sites with the help of various services, correcting possible errors on the site, independently or with the help of a programmer, analyzing semantic positions in Se-ranking, placing content on sites, correcting the meta tags of web pages - Title, Description, H1 headings)
  - Link building (permanent links, crowd, link placement in directories, UGC)
- - Placing content on sites
  - Analysis of data from Google Search Console, monitoring site growth
  - Preparation of monthly reports and work plans for the next period
 #### RIMBAT<br> 

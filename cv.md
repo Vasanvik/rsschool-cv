@@ -7,23 +7,31 @@ _____________
 ## SEO-specialist
 _____________
 ## Working experience
-### **Website SEO**, until mid-February 2022, I worked as an SEO specialist at the marketing agency "Maxi By Media" since December 2020.<br> Conducted a complex search engine optimization of sites on various topics: construction, medical, distance learning, marketing.<br>
- - Complex site audits, aimed at identifying errors and points of growth of the project
- - Communication with the customer, coordination of all stages of work on the project
+### Marketing agency "Maxi By Media"<br>
+**SEO-specialist** from December 2020 to February 2022<br> 
+Conducted a complex search engine optimization of sites on various topics: construction, medical, distance learning, marketing.<br>
+ - Complex site audits, site audits, aimed at identifying errors and points of growth sites
+ - Analysis of competitors from the TOP, evaluation of the most priority growth points
+ - Communication with customers, coordination of all stages of work on optimization of sites
+ - Bug fixing, optimization of sites
  - Collecting the semantic core, semantic clustering (using the Key Collector)
  - Preparation of technical specifications for programmers, copywriters (control over the execution of technical specifications)
+ - Internal optimization of web-sites (monitoring the state of the site using various services, correcting possible errors on the site, independently or with the help    of a programmer, analyzing semantic positions in Se- ranking, adjusting the meta tags of site pages - Title, Description, H1 headings)
+ - Link building (permanent links, crowd, link placement in directories, UGC)
  - Placing content on sites
- - Internal site optimization (monitoring the state of the site using various services, correcting possible errors on the site, independently or with the help of a        programmer, analyzing semantic positions in Se- ranking, adjusting the meta tags of site pages - Title, Description, H1 headings)
- - Analysis of previous changes, adjustment of changed pages depending on the results in search engines
- - Analysis of data received from Google Search Console services
+ - Analysis of data from Google Search Console, monitoring site growth
  - Preparation of monthly reports and work plans for the next period
-### From May 2022 to October 2022, I worked as a website maintenance specialist at RIMBAT.<br>
+### RIMBAT<br> 
+Website maintenance specialist, May 2022 to October 2022<br> 
  - Filling company websites with content
  - Integration of sites with various online services
  - Monitoring the work of SEO-contractor
-### I am currently working as a part-time freelancer **Seo outreach specialist** at Easy Projects.<br> Easy Projects is a SaaS project management platform.
+### Easy Projects<br> 
+I am currently working as a part-time freelancer **Seo outreach specialist**<br>
+Easy Projects is a SaaS project management platform.<br>
  - Link building (permanent links, guest posting, link placement in directories, UGC)
  - Contact and collaborate with website owners/admins, influencers, journalists, bloggers, etc.
+ - Maintaining a report on the work done
 
 ## Skills
 * CMS: Bitrix, MODx, Joomla.<br>
@@ -32,13 +40,11 @@ _____________
 * English: B1<br>
 
 ## Courses
-<ul>
- <li>
-I completed a 4-month course: “SEO specialist, complex website promotion in search engines.” from Netology.<br>
-There is a certificate of successful completion.</li>
-<li> 
-Also in 21-22 years took a seven-month course from Netology - Specialization SEO-specialist PRO.<br>
-(I did not finish the course in connection with the war)</li>
-</ul>
+  - I completed a 4-month course: **SEO specialist**, complex website promotion in search engines from Netology.
+    There is a certificate of successful completion.
+  - In 21-22 years took a seven-month course from Netology - **Specialization SEO-specialist PRO**.<br>
+    (I did not finish the course in connection with the war)
 
+## Higher Education
+1999 - 2004 - Belarusian Agricultural Academy - Agricultural mechanization, Engineer. 
 

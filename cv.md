@@ -32,7 +32,7 @@ _____________
  <li>Integration of sites with various online services</li>
  <li>Monitoring the work of SEO-contractor</li>
  </ul>
- ### Easy Projects  <br>   
+  <h3>Easy Projects</h3>   
  <p>I am currently working as a part-time freelancer <b>Seo outreach specialist</b>.<br>
  Easy Projects is a SaaS project management platform.</p>
  <ul>

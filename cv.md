@@ -20,7 +20,7 @@ _____________
  - Link building (permanent links, crowd, link placement in directories, UGC)
  - Analysis of data from Google Search Console, monitoring site growth
  - Preparation of monthly reports and work plans for the next period
- #### RIMBAT<br>   
+ #### RIMBAT<br>
  Website maintenance specialist, May 2022 to October 2022<br> 
  - Filling company websites with content
  - Integration of sites with various online services

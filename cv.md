@@ -17,7 +17,7 @@ _____________
  <li>Maintaining a report on the work done</li>
 </ul>
 <h3>RIMBAT</h3>
- <p>Website maintenance specialist, May 2022 to October 2022</p> 
+ <p><b>Website maintenance specialist</b>, May 2022 to October 2022</p> 
  <ul>
  <li>Filling company websites with content</li>
  <li>Integration of sites with various online services</li>

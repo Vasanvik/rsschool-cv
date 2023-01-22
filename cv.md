@@ -33,7 +33,7 @@ _____________
  <li>Bug fixing, optimization of sites</li>
  <li>Collecting the semantic core, semantic clustering (using the Key Collector)</li>
  <li>Preparation of technical specifications for programmers, copywriters (control over the execution of technical specifications)</li>
- <li>Internal optimization of web-sites (monitoring the status of sites with the help of various services, correcting possible errors on the site, independently or with the help of a programmer, analyzing semantic positions in Se-ranking, placing content on sites, correcting the meta tags of web pages - Title, Description, H1         headings)</li>
+ <li>Internal optimization of web-sites (monitoring the status of sites with the help of various services, correcting errors on the site, independently or with the help of a programmer, analyzing semantic positions in Se-ranking, placing content on sites, correcting the meta tags of web pages - Title, Description, H1         headings)</li>
  <li>Link building (permanent links, crowd, link placement in directories, UGC)</li>
  <li>Analysis of data from Google Search Console, monitoring site growth</li>
  <li>Preparation of monthly reports and work plans for the next period</li>

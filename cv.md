@@ -10,7 +10,7 @@ _____________
 <h2>Working experience</h2>
 
  <h3>Marketing agency "Maxi By Media"</h3>
- <p><b>SEO-specialist<b> from December 2020 to February 2022<br> 
+ <p><b>SEO-specialist</b> from December 2020 to February 2022<br> 
  Conducted a complex search engine optimization of sites on various topics: construction, medical, distance learning, marketing.</p>
  <ul>
  <li>Complex site audits, site audits, aimed at identifying errors and points of growth sites</li>
@@ -33,7 +33,7 @@ _____________
  <li>Monitoring the work of SEO-contractor</li>
  </ul>
  ### Easy Projects  <br>   
- <p>I am currently working as a part-time freelancer **Seo outreach specialist**.<br>
+ <p>I am currently working as a part-time freelancer <b>Seo outreach specialist</b>.<br>
  Easy Projects is a SaaS project management platform.</p>
  <ul>
  <li>Link building (permanent links, guest posting, link placement in directories, UGC)</li>

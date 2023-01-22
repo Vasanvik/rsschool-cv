@@ -8,7 +8,6 @@ _____________
 ## SEO-specialist
 _____________
 <h2>Working experience</h2>
-
  <h3>Marketing agency "Maxi By Media"</h3>
  <p><b>SEO-specialist</b> from December 2020 to February 2022<br> 
  Conducted a complex search engine optimization of sites on various topics: construction, medical, distance learning, marketing.</p>
@@ -24,7 +23,6 @@ _____________
  <li>Analysis of data from Google Search Console, monitoring site growth</li>
  <li>Preparation of monthly reports and work plans for the next period</li>
  </ul>
-
  <h3>RIMBAT</h3>
  <p>Website maintenance specialist, May 2022 to October 2022</p> 
  <ul>
@@ -41,19 +39,23 @@ _____________
  <li>Maintaining a report on the work done</li>
 </ul>
  
- ## Skills
- * CMS: Bitrix, MODx, Joomla.<br>
- * Basic HTML, CSS and JS.<br>
- * Services: Ahrefs, Serpstat, SE Ranking, KEY Collector, Screaming Frog, Google Search Console, Google Analytics<br>
- * English: B1<br>
- * Russian: native
+ <h2>Skills</h2>
+ <ul>
+ <li>CMS: Bitrix, MODx, Joomla</li>
+ <li>Basic HTML, CSS and JS</li>
+ <li>Services: Ahrefs, Serpstat, SE Ranking, KEY Collector, Screaming Frog, Google Search Console, Google Analytics</li>
+ <li>English: B1</li>
+ <li>Russian: native</li>
+ </ul>
 
- ## Courses
-  - I completed a 4-month course: **SEO specialist**, complex website promotion in search engines from Netology.
-    There is a certificate of successful completion.
-  - In 21-22 years took a seven-month course from Netology - **Specialization SEO-specialist PRO**.<br>
-    (I did not finish the course in connection with the war)
+ <h2>Courses</h2>
+ <ul>
+ <li>I completed a 4-month course: <b>SEO specialist</b>, complex website promotion in search engines from Netology.<br>
+  There is a certificate of successful completion.</li>
+  <li>In 21-22 years took a seven-month course from Netology - **Specialization SEO-specialist PRO**.<br>
+   (I did not finish the course in connection with the war)</li>
+ </ul>
 
- ## Higher Education
- 1999 - 2004 - Belarusian Agricultural Academy - Agricultural mechanization, Engineer. 
+ <h2>Higher Education</h2>
+ <p>1999 - 2004 - Belarusian Agricultural Academy - Agricultural mechanization, Engineer.</p> 
 

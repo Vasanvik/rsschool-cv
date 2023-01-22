@@ -7,7 +7,7 @@ _____________
 ## SEO-specialist
 _____________
 ## Working experience
- #### Marketing agency "Maxi By Media"<br>
+ <h3>Marketing agency "Maxi By Media"</h3>
  **SEO-specialist** from December 2020 to February 2022<br> 
  Conducted a complex search engine optimization of sites on various topics: construction, medical, distance learning, marketing.<br>
  - Complex site audits, site audits, aimed at identifying errors and points of growth sites

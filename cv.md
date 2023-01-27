@@ -40,9 +40,9 @@ _____________
  </ul>
  <h2>Skills</h2>
  <ul>
- <li>CMS: Bitrix, MODx, Joomla</li>
+ <li><b>CMS</b>: Bitrix, MODx, Joomla</li>
+ <li><b>Services</b>: Ahrefs, Serpstat, SE Ranking, KEY Collector, Screaming Frog, Google Search Console, Google Analytics</li>
  <li>Basic HTML, CSS and JS</li>
- <li>Services: Ahrefs, Serpstat, SE Ranking, KEY Collector, Screaming Frog, Google Search Console, Google Analytics</li>
  </ul>
  <h2>Languages</h2>
  <p>Native:</p>

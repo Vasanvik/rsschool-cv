@@ -53,7 +53,7 @@ _____________
  <p>English: B1</p>
  <h2>Courses</h2>
  <ul>
- <li>I completed a 4-month course: <b>SEO specialist</b>, complex website promotion in search engines from Netology.<br>
+ <li>I completed a 4-month course: <b>SEO specialist, complex website promotion in search engine</b>s from Netology.<br>
   There is a certificate of successful completion.</li>
   <li>In 21-22 years took a seven-month course from Netology - <b>Specialization SEO-specialist PRO</b>.<br>
    (I did not finish the course in connection with the war)</li>

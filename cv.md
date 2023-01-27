@@ -43,14 +43,19 @@ _____________
  <li>CMS: Bitrix, MODx, Joomla</li>
  <li>Basic HTML, CSS and JS</li>
  <li>Services: Ahrefs, Serpstat, SE Ranking, KEY Collector, Screaming Frog, Google Search Console, Google Analytics</li>
- <li>English: B1</li>
- <li>Russian: native</li>
  </ul>
+ <h2>Languages</h2>
+ <p>Native:</p>
+ <ul>
+ <li>Russian</li>
+ <li>Belarusian</li>
+ </ul>
+ <p>English: B1</p>
  <h2>Courses</h2>
  <ul>
  <li>I completed a 4-month course: <b>SEO specialist</b>, complex website promotion in search engines from Netology.<br>
   There is a certificate of successful completion.</li>
-  <li>In 21-22 years took a seven-month course from Netology - **Specialization SEO-specialist PRO**.<br>
+  <li>In 21-22 years took a seven-month course from Netology - <b>Specialization SEO-specialist PRO</b>.<br>
    (I did not finish the course in connection with the war)</li>
  </ul>
  <h2>Higher Education</h2>

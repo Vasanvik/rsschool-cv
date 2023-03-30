@@ -37,7 +37,7 @@ _____________
  <li>Fixing errors, based on the results of the audit</li>
  <li>Semantic core collection and semantic clustering (with the Key Collector)</li>
  <li>Preparation of technical specifications for programmers, copywriters (control over the performance of technical specifications)</li>
- <li>On-page optimization of web-sites (correcting the meta tags of web pages - Title, Description, H1 headings, posting content on websites, correcting errors, monitoring the status of sites with the help of various services, analyzing semantic positions in Se-ranking)</li>
+ <li>On-page optimization of web-sites (correcting the meta tags of web pages - Title, Description, H1 headings, posting content on websites, correcting errors, monitoring the status of sites with the help of various services, analyzing semantic positions in Se-ranking, etc.)</li>
  <li>Link building (guest post, free link exchange, crowd, link placement in directories)</li>
  <li>Analysis of data from Google Search Console, monitoring site growth</li>
  <li>Preparation of monthly reports and work plans for the next period</li>

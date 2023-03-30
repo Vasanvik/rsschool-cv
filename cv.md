@@ -17,15 +17,17 @@ _____________
  <li>Maintaining a report on the work done</li>
 </ul>
 <h3>RIMBAT</h3>
- <p><b>Website maintenance specialist</b>, May 2022 to October 2022</p> 
+ <p><b>Website maintenance specialist</b></p>  
+ <p>May 2022 to October 2022</p> 
  <ul>
  <li>Filling company websites with content</li>
  <li>Integration of sites with various online services</li>
  <li>Monitoring the work of SEO-contractor</li>
  </ul>
  <h3>Marketing agency "Maxi By Media"</h3>
- <p><b>SEO-specialist</b> from December 2020 to February 2022<br> 
- Conducted a complex search engine optimization of sites on various topics: construction, medical, online education, marketing, car equipment.</p>
+ <p><b>SEO-specialist</b></p> 
+ <p>from December 2020 to February 2022</p>  
+ <p>Conducted a complex search engine optimization of sites on various topics: construction, medical, online education, marketing, car equipment.</p>
  <ul>
  <li>Complex site audits, aimed at identifying errors and points of growth sites</li>
  <li>Analysis of competitors from the TOP, evaluation of the most priority growth points</li>

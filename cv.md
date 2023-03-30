@@ -27,7 +27,7 @@ _____________
  </ul>
  <h3>Marketing agency "Maxi By Media"</h3>
  <p><b>SEO-specialist</b></p> 
- <p>from December 2020 to February 2022</p>  
+ <p>December 2020 to February 2022</p>  
  <p>Conducted a complex search engine optimization of sites on various topics: construction, medical, online education, marketing, car equipment.</p>
  <ul>
  <li>Complex site audits, aimed at identifying errors and points of growth sites</li>

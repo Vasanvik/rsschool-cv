@@ -8,8 +8,9 @@ _____________
 ## SEO-specialist
 _____________
 <h2>Working experience</h2>
-<h3>Birdview PSA by Easy Projects</h3>   
- <p>Since November 2022 I have been working  part-time freelance as a linkbuilder - <b>SEO outreach specialist</b>.<br>
+<h3>Birdview PSA by Easy Projects</h3> 
+ <p><b>SEO outreach specialist</b></p>
+ <p>Since November 2022 I have been working  part-time freelance as a linkbuilder - SEO outreach specialist.<br>
  Easy Projects presents SaaS product for project management-<a href="https://birdviewpsa.com/">Birdview PSA</a>.</p>
  <ul>
  <li>Link building (guest post, free link exchange, link placement in directories, posting content on UGS)</li>

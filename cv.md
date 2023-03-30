@@ -13,7 +13,7 @@ _____________
  <p>Since November 2022 I have been working  part-time freelance as a linkbuilder - SEO outreach specialist.<br></p>
  <p>Easy Projects presents SaaS product for project management-<a href="https://birdviewpsa.com/">Birdview PSA</a>.</p>
  <ul>
- <li>Link building (guest post, free link exchange, link placement in directories, posting content on UGS)</li>
+ <li>Link building (guest post, free link exchange, link placement in directories, posting content on UGC)</li>
  <li>Negotiating cooperation with website stakeholders</li>
  <li>Maintaining a report on the work done</li>
 </ul>

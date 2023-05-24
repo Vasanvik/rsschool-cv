@@ -2,7 +2,7 @@
 # Andrei Vasilyeu
 polandvas@gmail.com | [Linkedin.com](https://www.linkedin.com/in/andrei-vasilyev/)|
 * date of birth: 05.04.1982
-* location: Gdansk, Poland
+* location: Gdansk, Poland 
 _____________
 ## SEO-specialist
 _____________

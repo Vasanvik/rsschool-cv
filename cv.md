@@ -1,9 +1,8 @@
 ![Vasanvik](image/Vasanvik.jpg)
 # Andrei Vasilyeu
-vasanvik@gmail.com | [Linkedin](https://www.linkedin.com/in/andrei-vasilyev/) |
+polandvas@gmail.com | [Linkedin.com/in/andrei-vasilyev/](https://www.linkedin.com/in/andrei-vasilyev/)|
 * date of birth: 05.04.1982
 * location: Gdansk, Poland
-
 _____________
 ## SEO-specialist
 _____________

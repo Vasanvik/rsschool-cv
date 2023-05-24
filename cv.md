@@ -1,6 +1,6 @@
 ![Vasanvik](image/Vasanvik.jpg)
 # Andrei Vasilyev
-vasanvik@gmail.com | [Linkedin](https://www.linkedin.com/in/andrei-vasilyev/) | Discord-Vasanvik#5685  
+vasanvik@gmail.com | [Linkedin](https://www.linkedin.com/in/andrei-vasilyev/) |  
 _____________
 ## SEO-specialist
 ________

@@ -2,7 +2,7 @@
 # Andrei Vasilyev
 vasanvik@gmail.com | [Linkedin](https://www.linkedin.com/in/andrei-vasilyev/) | Discord-Vasanvik#5685  
 _____________
-## SEO-specialist with 1+ year of experience
+## SEO-specialist
 ________
 **Website SEO**, until mid-February 2022, I worked as an SEO specialist at the marketing agency "Maxi By Media" since December 2020.<br>
 Conducted a complex search engine optimization of sites on various topics: construction, medical, distance learning, marketing (I ran the agency's website)<br>

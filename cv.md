@@ -9,12 +9,14 @@ _____________
 _____________
 <h2>Working experience</h2>
 <h3>Birdview PSA by Easy Projects</h3> 
- <p><b>SEO outreach specialist</b></p>
- <p>Since November 2022 I have been working  part-time freelance as a linkbuilder - SEO outreach specialist.<br></p>
+ <p><b>SEO-specialist</b></p>
+ <p>Since November 2022, I have been working part-time as a freelance SEO-specialist.<br></p>
  <p>Easy Projects presents SaaS product for project management-<a href="https://birdviewpsa.com/">Birdview PSA</a>.</p>
  <ul>
  <li>Link building (guest post, free link exchange, link placement in directories, posting content on UGC)</li>
  <li>Negotiating cooperation with website stakeholders</li>
+ <li>Semantic core collection</li>
+ <li>Technical audit of the website</li>
  <li>Maintaining a report on the work done</li>
 </ul>
 <h3>RIMBAT</h3>
@@ -45,7 +47,7 @@ _____________
  <h2>Skills</h2>
  <ul>
  <li><b>CMS</b>: Bitrix, MODx, Joomla</li>
- <li><b>Services</b>: Ahrefs, Serpstat, SE Ranking, KEY Collector, Screaming Frog, Google Search Console, Google Analytics</li>
+ <li><b>Services</b>: Ahrefs, Semrush, Serpstat, SE Ranking, KEY Collector, Screaming Frog, Google Search Console, Google Analytics</li>
  <li>Basic HTML, CSS and JS</li>
  </ul>
  <h2>Languages</h2>
@@ -59,8 +61,7 @@ _____________
  <ul>
  <li>I completed a 4-month course: <b>SEO specialist, complex website promotion in search engine</b>s from Netology.<br>
   There is a certificate of successful completion.</li>
-  <li>In 21-22 years took a seven-month course from Netology - <b>Specialization SEO-specialist PRO</b>.<br>
-   (I did not finish the course in connection with the war)</li>
+  <li>In 21-22 years took a seven-month course from Netology - <b>Specialization SEO-specialist PRO</b>.<br></li>
  </ul>
  <h2>Higher Education</h2>
  <p>1999 - 2004 - Belarusian Agricultural Academy - Agricultural mechanization, Engineer.</p> 

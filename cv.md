@@ -3,7 +3,6 @@
 polandvas@gmail.com | [Linkedin.com](https://www.linkedin.com/in/andrei-vasilyev/)|
 * date of birth: 05.04.1982
 * location: Gdansk, Poland
-
 ## SEO-specialist
 _____________
 <h2>Working experience</h2>

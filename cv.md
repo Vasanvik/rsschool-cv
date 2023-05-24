@@ -41,6 +41,3 @@ Conducted a complex search engine optimization of sites on various topics: const
 - Analysis of data received from Yandex.Webmaster and Google Search Console services.
 - Preparation of monthly reports and work plans for the next period.
 
-## Completed project
-[CV-Andrey Vasilyev](https://vasanvik.github.io/rsschool-cv/cv)
-

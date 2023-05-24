@@ -1,6 +1,6 @@
 ![Vasanvik](image/Vasanvik.jpg)
 # Andrei Vasilyeu
-polandvas@gmail.com | [Linkedin.com/in/andrei-vasilyev/](https://www.linkedin.com/in/andrei-vasilyev/)|
+polandvas@gmail.com | [Linkedin.com](https://www.linkedin.com/in/andrei-vasilyev/)|
 * date of birth: 05.04.1982
 * location: Gdansk, Poland
 _____________
@@ -63,5 +63,4 @@ _____________
   <li>In 21-22 years took a seven-month course from Netology - <b>Specialization SEO-specialist PRO</b>.<br></li>
  </ul>
  <h2>Higher Education</h2>
- <p>1999 - 2004 - Belarusian Agricultural Academy - Agricultural mechanization, Engineer.</p> 
-
+ <p>1999 - 2004 - Belarusian Agricultural Academy - Agricultural mechanization, Engineer.</p>

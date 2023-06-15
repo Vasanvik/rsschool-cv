@@ -1,7 +1,6 @@
 ![Vasanvik](image/Vasanvik.jpg)
 # Andrei Vasilyeu
 polandvas@gmail.com | [Linkedin.com](https://www.linkedin.com/in/andrei-vasilyev/)|
-* date of birth: 05.04.1982
 * location: Gdansk, Poland 
 
 ## SEO-specialist
@@ -56,6 +55,7 @@ _____________
  <li>Belarusian</li>
  </ul>
  <p>English: B1</p>
+ <p>Polish: elementary</p>
  <h2>Courses</h2>
  <ul>
  <li>I completed a 4-month course: <b>SEO specialist, complex website promotion in search engine</b>s from Netology.<br>

@@ -53,7 +53,7 @@ _____________
  <li>Russian</li>
  <li>Belarusian</li>
  </ul>
- <p>English: B1</p>
+ <p>English: B2</p>
  <p>Polish: elementary</p>
  <h2>Courses</h2>
  <ul>

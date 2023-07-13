@@ -2,7 +2,6 @@
 ## Middle SEO specialist
 polandvas@gmail.com | [Linkedin.com](https://www.linkedin.com/in/andrei-vasilyev/)|
 * location: Gdansk, Poland
-_____________________
 <h2>Work experience</h2>
 <h3>Birdview PSA, Toronto, Canada</h3> 
  <p><b>SEO specialist</b></p>

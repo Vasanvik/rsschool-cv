@@ -1,9 +1,9 @@
 # Andrei Vasilyeu
 polandvas@gmail.com | [Linkedin.com](https://www.linkedin.com/in/andrei-vasilyev/)|
 * location: Gdansk, Poland
-## SEO-specialist
+## SEO specialist
 _____________
-<h2>Working experience</h2>
+<h2>Work experience</h2>
 <h3>Birdview PSA, Toronto, Canada</h3> 
  <p><b>SEO specialist</b></p>
  <p>Since November 2022, I have been working part-time as a freelance SEO-specialist.<br></p>

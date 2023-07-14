@@ -18,9 +18,9 @@ location: Gdansk, Poland
  <p><b>Website maintenance specialist</b></p>  
  <p>May 2022 - Oct 2022</p> 
  <ul>
- <li>Integrating websites with different online services.</li>
- <li>Managing the work of an SEO contractor.</li>
- <li>Filling the company's websites with content</li>
+ <li>Integrated websites with different online services</li>
+ <li>Managed the work of an SEO contractor</li>
+ <li>Provided content for the company's websites</li>
  </ul>
  <h3>Marketing agency</h3>
  <p><b>SEO specialist</b></p> 
@@ -28,16 +28,16 @@ location: Gdansk, Poland
  <p>I performed comprehensive search engine optimization for websites covering diverse topics: including construction, medical, online education, marketing, and car equipment.</p>
  <ul>
  <li>Comprehensive website audits</li>
- <li>Competitive SERP analysis and  identifying key growth opportunities.</li>
- <li>Creating an effective SEO strategy</li>
- <li>Coordinating with customers and managing all stages of website optimization.</li>
- <li>Correcting mistakes according to audit findings.</li>
- <li>Collecting a semantic core and clustering semantically.</li>
- <li>I can assist with preparing technical specifications for programmers and copywriters, including monitoring their adherence to the specifications.</li>
- <li>On-page/Off-Page optimization of websites </li>
+ <li>Analyzed competitor's SERP and identified key growth opportunities</li>
+ <li>Created an effective SEO strategy</li>
+ <li>Coordinated with customers and managing all stages of website optimization</li>
+ <li>Corrected mistakes according to audit findings</li>
+ <li>Collected a semantic core and clustering semantically</li>
+ <li>Prepared technical specifications for copywriters and programmers</li>
+ <li>On-page/Off-Page optimization of websites</li>
  <li>Link building (guest post, crowd, link placement in directories)</li>
- <li>Analyzing data from Google Search Console</li>
- <li>I am looking to prepare monthly reports and work plans for the upcoming period.</li>
+ <li>Analyzed data from Google Search Console</li>
+ <li>Prepared monthly reports and work plans for the upcoming period</li>
  </ul>
  <h2>Technical Skills</h2>
  <ul>

@@ -1,6 +1,6 @@
 # Andrei Vasilyeu
 | [Linkedin.com](https://www.linkedin.com/in/andrei-vasilyev/)| polandvas@gmail.com
-location: Gdansk, Poland
+<p>location: Gdansk, Poland</p>
 ## SEO specialist
 <h2>Work experience</h2>
 <h3>Birdview PSA, Toronto, Canada</h3> 

@@ -3,7 +3,7 @@
 location: Gdansk, Poland
 ## SEO specialist
 <h2>Summary</h2>
-<p>I have over 2.5 years of experience as a specialist in optimizing search engine websites. Lately, I have been focusing on optimizing SEO for Saas products. I am skilled in performing complex website optimization at all stages, including SEO during website creation. I am always keeping my skills updated and staying current with SEO trends.</p>
+<p>I have over 2.5 years of experience as a specialist in optimizing search engine websites. Lately, I have been focusing on optimizing SEO for SaaS products. I am skilled in performing complex website optimization at all stages, including SEO during website creation. I am always keeping my skills updated and staying current with SEO trends.</p>
 <h2>Work experience</h2>
 <h3>Birdview PSA, Toronto, Canada</h3> 
  <p><b>SEO specialist</b></p>

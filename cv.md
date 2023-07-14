@@ -34,7 +34,7 @@ location: Gdansk, Poland
  <li>Created an effective SEO strategy</li>
  <li>Coordinated with customers and managing all stages of website optimization</li>
  <li>Corrected mistakes according to audit findings</li>
- <li>Collected a Semantic Core and clustering semantically</li>
+ <li>Collected Semantic Cores</li>
   <li>Created website structures</li>
  <li>Prepared technical specifications for copywriters and programmers</li>
  <li>On-page/Off-Page optimization of websites</li>

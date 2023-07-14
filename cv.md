@@ -10,7 +10,7 @@ location: Gdansk, Poland
  <p>Nov 2022 - Present<br></p>
  <p><a href="https://birdviewpsa.com/">Birdview PSA</a> is a Software as a Service (SaaS) product designed for project management.</p>
  <ul>
- <li>Link building (guest post, cross-referencing, link placement in directories, UGC)</li>
+ <li>Link building (Guest Post, cross-referencing, Directory Link Placement, UGC)</li>
  <li>Working towards collaboration with website stakeholders.</li>
  <li>Collecting a Semantic Core</li>
  <li>Perform a technical audit</li>

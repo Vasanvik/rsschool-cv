@@ -31,7 +31,7 @@ location: Gdansk, Poland
  <ul>
  <li>Comprehensive website audits</li>
  <li>Analyzed competitor's SERP and identified key growth opportunities</li>
- <li>Created an effective SEO strategy</li>
+ <li>Created effective SEO strategies</li>
  <li>Coordinated with customers and managing all stages of website optimization</li>
  <li>Corrected mistakes according to audit findings</li>
  <li>Collected Semantic Cores</li>

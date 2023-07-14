@@ -1,63 +1,58 @@
 # Andrei Vasilyeu
-## Middle SEO specialist
-polandvas@gmail.com | [Linkedin.com](https://www.linkedin.com/in/andrei-vasilyev/)|
-* location: Gdansk, Poland
+[Linkedin.com](https://www.linkedin.com/in/andrei-vasilyev/) | polandvas@gmail.com<br>
+location: Gdansk, Poland
+## SEO specialist
+<h2>Summary</h2>
+<p>I have over 2.5 years of experience as a specialist in optimizing search engine websites. Lately, I have been focusing on optimizing SEO for SaaS products. I am skilled in performing complex website optimization at all stages, including SEO during website creation. I am always keeping my skills updated and staying current with SEO trends.</p>
 <h2>Work experience</h2>
 <h3>Birdview PSA, Toronto, Canada</h3> 
  <p><b>SEO specialist</b></p>
- <p>Since November 2022, I have been working part-time as a freelance SEO-specialist.<br></p>
- <p>Easy Projects presents SaaS product for project management-<a href="https://birdviewpsa.com/">Birdview PSA</a>.</p>
+ <p>Nov 2022 - Present<br></p>
+ <p>A software-as-a-service (SaaS) product designed for project management -<a href="https://birdviewpsa.com/">Birdview PSA</a>.</p>
  <ul>
  <li>Link building (guest post, cross-referencing, link placement in directories, UGC)</li>
- <li>Negotiating cooperation with website stakeholders</li>
- <li>Semantic core collection</li>
- <li>Technical audit of the website</li>
- <li>Maintaining a report on the work done</li>
+ <li>Working towards collaboration with website stakeholders.</li>
+ <li>Collecting a Semantic Core</li>
+ <li>Perform a technical audit</li>
+ <li>Keeping track of the work accomplished.</li>
 </ul>
 <h3>RIMBAT</h3>
  <p><b>Website maintenance specialist</b></p>  
- <p>May 2022 to October 2022</p> 
+ <p>May 2022 - Oct 2022</p> 
  <ul>
- <li>Integration of sites with various online services</li>
- <li>Monitoring the work of SEO-contractor</li>
- <li>Filling company websites with content</li>
+ <li>Integrated websites with different online services</li>
+ <li>Managed the work of an SEO contractor</li>
+ <li>Provided content for the company's websites</li>
  </ul>
  <h3>Marketing agency</h3>
  <p><b>SEO specialist</b></p> 
- <p>December 2020 to February 2022</p>  
- <p>Conducted a complex search engine optimization of sites on various topics: construction, medical, online education, marketing, car equipment.</p>
+ <p>Dec 2020 - Feb 2022</p>  
+ <p>I performed comprehensive search engine optimization for websites covering diverse topics: including construction, medical, online education, marketing, and car equipment.</p>
  <ul>
  <li>Comprehensive website audits</li>
- <li>Analysis of competitors from the TOP, evaluation of the most priority growth points</li>
- <li>Development of a SEO strategy</li>
- <li>Communication with customers, coordination of all stages of work on optimization of sites</li>
- <li>Fixing errors, based on the results of the audits</li>
- <li>Semantic core collection and semantic clustering</li>
- <li>Preparation of technical specifications for programmers, copywriters (control over the performance of technical specifications)</li>
- <li>On-page/Off-Page  optimization of web-sites </li>
- <li>Link building (guest post, free link exchange, crowd, link placement in directories)</li>
- <li>Analysis of data from Google Search Console, monitoring site growth</li>
- <li>Preparation of monthly reports and work plans for the next period</li>
+ <li>Analyzed competitor's SERP and identified key growth opportunities</li>
+ <li>Created an effective SEO strategy</li>
+ <li>Coordinated with customers and managing all stages of website optimization</li>
+ <li>Corrected mistakes according to audit findings</li>
+ <li>Collected a semantic core and clustering semantically</li>
+  <li>Created website structures</li>
+ <li>Prepared technical specifications for copywriters and programmers</li>
+ <li>On-page/Off-Page optimization of websites</li>
+ <li>Link building (guest post, crowd, link placement in directories)</li>
+ <li>Analyzed data from Google Search Console</li>
+ <li>Prepared monthly reports and work plans for the upcoming period</li>
  </ul>
- <h2>Skills</h2>
+ <h2>Technical Skills</h2>
  <ul>
  <li><b>CMS</b>: Bitrix, MODx, Joomla</li>
  <li><b>Services</b>: Ahrefs, Semrush, Serpstat, SE Ranking, KEY Collector, Screaming Frog, Google Search Console, Google Analytics</li>
- <li>Basic HTML, CSS and JS</li>
+ <li><b>Web technologies</b>: HTML, CSS, basic JS</li>
  </ul>
  <h2>Languages</h2>
- <p>Native:</p>
- <ul>
- <li>Russian</li>
- <li>Belarusian</li>
+  <ul>
+ <li>English - Intermediate</li>
+ <li>Polish - Basic</li>
+ <li>Belarusian, Russian - Native</li>
  </ul>
- <p>English: B2</p>
- <p>Polish: elementary</p>
- <h2>Courses</h2>
- <ul>
- <li>I completed a 4-month course: <b>SEO specialist, complex website promotion in search engine</b>s from Netology.<br>
-  There is a certificate of successful completion.</li>
-  <li>In 21-22 years took a seven-month course from Netology - <b>Specialization SEO-specialist PRO</b>.<br></li>
- </ul>
- <h2>Higher Education</h2>
+ <h2>Education</h2>
  <p>1999 - 2004 - Belarusian Agricultural Academy - Agricultural mechanization, Engineer.</p> 

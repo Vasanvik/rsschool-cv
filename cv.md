@@ -8,7 +8,7 @@ location: Gdansk, Poland
 <h3>Birdview PSA, Toronto, Canada</h3> 
  <p><b>SEO specialist</b></p>
  <p>Nov 2022 - Present<br></p>
- <p>A software-as-a-service (SaaS) product designed for project management -<a href="https://birdviewpsa.com/">Birdview PSA</a>.</p>
+ <p>Software-as-a-Service (SaaS) product designed for project management -<a href="https://birdviewpsa.com/">Birdview PSA</a>.</p>
  <ul>
  <li>Link building (guest post, cross-referencing, link placement in directories, UGC)</li>
  <li>Working towards collaboration with website stakeholders.</li>

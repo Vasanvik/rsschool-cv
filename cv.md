@@ -11,10 +11,10 @@ location: Gdansk, Poland
  <p><a href="https://birdviewpsa.com/">Birdview PSA</a> is a Software as a Service (SaaS) product designed for project management.</p>
  <ul>
  <li>Link Building (Guest Post, cross-referencing, Directory Link Placement, UGC)</li>
- <li>Working towards collaboration with website stakeholders.</li>
+ <li>Working towards collaboration with website stakeholders</li>
  <li>Collecting a Semantic Core</li>
  <li>Perform a technical audit</li>
- <li>Keeping track of the work accomplished.</li>
+ <li>Keeping track of the work accomplished</li>
 </ul>
 <h3>RIMBAT</h3>
  <p><b>Website maintenance specialist</b></p>  
